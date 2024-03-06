@@ -3,4 +3,6 @@ The year is 2047, and you have been paid by the mega corporation Fusion+ to perf
 
 This button is your villain.
 
+![image showing the game running in a console. a small introduction and basic controls are listed](fusion_image.png)
+
 Requires Python to run. Developed on 3, might work on 2.
